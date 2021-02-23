@@ -1,2 +1,2 @@
-### cdc-discord-bot
+## cdc-discord-bot
 Simplest discord bot to assign roles
